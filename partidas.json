@@ -1,0 +1,27 @@
+[
+    {
+        "jugadores": "joel vs fali",
+        "fecha y hora": "2024-07-10 18:20",
+        "ganador": "fali"
+    },
+    {
+        "jugadores": "fali vs micaela",
+        "fecha y hora": "2024-07-10 18:20",
+        "ganador": "micaela"
+    },
+    {
+        "jugadores": "fali vs IA",
+        "fecha y hora": "2024-07-10 18:24",
+        "ganador": "IA"
+    },
+    {
+        "jugadores": "renato vs brossard",
+        "fecha y hora": "2024-07-10 18:24",
+        "ganador": "Ninguno, fue empate"
+    },
+    {
+        "jugadores": "brossard vs micaela",
+        "fecha y hora": "2024-07-10 18:26",
+        "ganador": "brossard"
+    }
+]

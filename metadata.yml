@@ -1,0 +1,16 @@
+---
+:id: 259216531
+:submitters:
+- :name: Fali Ferdinand Araoz Arana
+  :email: fali.araoz@utec.edu.pe
+- :name: Micaela Soledad Garro Arana
+  :email: micaela.garro@utec.edu.pe
+- :name: Joel Modesto Cayllahua Hilario
+  :email: joel.cayllahua@utec.edu.pe
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-07-10 23:33:27.302351000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-07-10 16:33:27.302351000 Z
+:status: processed
+:score: 20.0
