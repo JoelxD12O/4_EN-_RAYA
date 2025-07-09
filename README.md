@@ -25,7 +25,7 @@ _____      _    __     __     __
 
 1. **Clona este repositorio** y navega a la carpeta principal del proyecto:
    ```pwsh
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone git@github.com:JoelxD12O/4_EN-_RAYA.git
    cd "PROYECTO 1_ PROGRA/PROGRA 1"
    ```
 
